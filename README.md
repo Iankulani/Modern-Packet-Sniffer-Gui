@@ -9,10 +9,4 @@ How to install
 
   python Modern-Packet-Sniffer-Gui.py
 
- 
-![Screenshot_2025-04-09_22_44_46](https://github.com/user-attachments/assets/efabcc7c-7009-4af9-8d63-9a00fcf05a92)
-
-
-
-
- 
+![Screenshot_2025-04-09_22_44_46](https://github.com/user-attachments/assets/39f84589-de1a-4a09-940b-6ade9daf3915)
